@@ -1,5 +1,5 @@
 ***
-Simulador de Investimento - Fundos Imobiliários
+Dashboard de vendas do XBOX no Excel.
 
 BootCamp: Santander - Excel com Inteligência Artificial
 
@@ -8,36 +8,29 @@ Tech Educator at DIO: Felipe Silva Aguiar
 Aluno: Rute Melo
 
 ****
-![image](https://github.com/user-attachments/assets/5d5a7f50-caeb-4238-a31e-434eb7a3a249)
+![image](https://github.com/user-attachments/assets/0baf3b50-fb30-4e55-b6d7-238dcc87ddd9)
 
-O Simulador de Investimento - Fundos Imobiliários é uma ferramenta desenvolvida para ajudar investidores a planejarem projerarem o retorno de seus investimentos em FIIs (Fundos de Investimento Imobiliário).
 
+O objetivo deste desafio é criar um dashboard de vendas, com foco na organização e visualização de dados. O objetivo é transformar dados brutos em informações visuais claras e úteis, permitindo uma análise eficaz do desempenho de vendas e a tomada de decisões baseadas em dados.
 
 ***
 
 
 **A ferramenta responde perguntas como:**
 
--Quanto investir por mês?
-
--Por quantos anos?
-
--Taxa de rendimento mensal?
-
--Patrimônio acumulado?
-
--Dividendos mensais?
+- Total Value
+- Total Coupon Value
+- Total Subscriptions Type
+- % OF AUTO RENEWAL
+- % OF SUBSCRIPTIONS TYPE
+- % Subscription EA Play Season Pass
+- % Subscription Minecraft Season Pass
 
 ***
-
-
-
 #**Funcionalidades:**
 
 * Simulação de diferentes cenários
+* Utilização de filtros dinamicos
 * Representação com gráficos e tabelas de evolução patrimonial.
-* Estimativa de geração de renda passiva mensal.
-* Sugestões com base no perfil do investidor (conservador, moderado e agressivo)
 * Interface simples e objetiva.
-
 ***
